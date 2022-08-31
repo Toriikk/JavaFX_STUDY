@@ -16,10 +16,8 @@
     <fullyQualifiedTypeName name="org.graalvm.compiler.nodes.extended.GetClassNode"/>
     <fullyQualifiedTypeName name="javafx.scene.control.TextArea"/>
     <fullyQualifiedTypeName name="javafx.scene.control.TextField"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="jdk.internal.misc.FileSystemOption"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="javafx.fxml.Initializable"/>
     <fullyQualifiedTypeName name="javafx.scene.control.ListView"/>
     <fullyQualifiedTypeName name="javafx.scene.image.ImageView"/>
     <fullyQualifiedTypeName name="javafx.scene.control.TableView"/>
@@ -32,4 +30,8 @@
     <fullyQualifiedTypeName name="javafx.application.Platform"/>
     <fullyQualifiedTypeName name="javafx.event.ActionEvent"/>
     <fullyQualifiedTypeName name="javafx.scene.image.Image"/>
+    <fullyQualifiedTypeName name="javafx.fxml.Initializable"/>
+    <fullyQualifiedTypeName name="java.awt.Component"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
 </qualifiedTypeNameHistroy>
